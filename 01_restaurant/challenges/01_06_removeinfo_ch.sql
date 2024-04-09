@@ -7,5 +7,6 @@
 SELECT * FROM Customers WHERE FirstName = 'Norby';
 
 DELETE FROM Customers WHERE CustomerID = 64;
+DELETE FROM Reservations WHERE ReservationID = 2000;
 
 SELECT * FROM Customers;
