@@ -6,4 +6,4 @@
 
 -- Hint: SQLite offers the INTEGER and REAL datatypes
 
-CREATE TABLE CustomerResponses(ID INTEGER, Guests INTEGER);
+CREATE TABLE AnniversaryEvent(ID INTEGER, Guests INTEGER);
